@@ -1,0 +1,12 @@
+.odd {
+    background-color: rgba(225, 255, 225, 1);
+}
+
+.odd, .even {
+    padding: 25px;
+    margin: 25px;
+}
+
+.odd, .even p {
+    font-size: 24px;
+}
