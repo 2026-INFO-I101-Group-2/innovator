@@ -1,12 +1,35 @@
-.odd {
-    background-color: rgba(225, 255, 225, 1);
+nav{
+    background-color: #AEC79C;
 }
-
+.container-fluid{
+    background-color: #EAF4E4;
+}
+.odd {
+    background-color: #EAF4E4;
+}
+.even{
+    background-color: #AEC79C;
+}
 .odd, .even {
     padding: 25px;
     margin: 25px;
 }
-
 .odd, .even p {
     font-size: 24px;
+}
+.lynn img{
+    width: 50%;
+     border-style: double;
+    border-color: #EAF4E4;
+    border-width: 5px;
+}
+.wire img{
+    border-style: double;
+    border-color: #AEC79C;
+    border-width: 5px;
+}
+.team img{
+     border-style: double;
+    border-color: #EAF4E4;
+    border-width: 5px;
 }

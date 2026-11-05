@@ -31,7 +31,7 @@ nav li a.active {
     background-color: #19C116;
 }
 
-nav li a:hover {
+nav li button.hover {
     background-color: #0E8524;
     color: white;
 }

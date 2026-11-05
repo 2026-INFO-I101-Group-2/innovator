@@ -1,0 +1,25 @@
+nav{
+    background-color: #AEC79C;
+}
+footer{
+    background-color: #AEC79C;
+}
+body {
+    background-color: #EAF4E4;
+}
+.btn{
+    background-color: #bed9ac;
+    border-color: #AEC79C;
+    color: black;
+}
+.hi:hover{
+    background-color: #98ac8b;
+    border-color: #809075;
+    color: black;
+}
+img{
+    width: 60%;
+}
+.simon img{
+    width: 70%;
+}

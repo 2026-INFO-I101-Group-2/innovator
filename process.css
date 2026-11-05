@@ -1,0 +1,39 @@
+.head{
+    margin: 5px
+}
+nav{
+    background-color: #AEC79C;
+}
+.container-fluid{
+    background-color: #EAF4E4;
+}
+.green, .charter, .wireframe, .dataviz{
+    background-color: #AEC79C;
+}
+.green img, .charter img, .wireframe img, .dataviz img{
+     border-style: double;
+    border-color: #EAF4E4;
+    border-width: 5px;
+}
+.row{
+    padding: 20px;
+}
+.rowtitle{
+    margin: 25px;
+}
+.row p{
+    padding: 10px;
+}
+.green img{
+    border-style: double;
+    border-color: #EAF4E4;
+    border-width: 5px;
+}
+img {
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    border-style: double;
+    border-color: #AEC79C;
+    border-width: 5px;
+}
